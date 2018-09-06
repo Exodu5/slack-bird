@@ -1,0 +1,19 @@
+{
+  "name": "slack-bird",
+  "version": "0.0.1",
+  "description": "A messanger for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "slack",
+    "post",
+    "request"
+  ],
+  "author": "3xodu5",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
