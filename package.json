@@ -14,6 +14,7 @@
   "author": "3xodu5",
   "license": "MIT",
   "dependencies": {
+    "jest": "^23.5.0",
     "request": "^2.88.0"
   }
 }
