@@ -1,10 +1,10 @@
 {
   "name": "slack-bird",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A messanger for slack",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "jest"
   },
   "keywords": [
     "slack",
